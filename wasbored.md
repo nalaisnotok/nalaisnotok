@@ -10,11 +10,7 @@
   <p class="title">N a l a</p>
   <p class="title">Gamer & Bonified Loser</p>
  <p>UT</p>
-  <div style="margin: 24px 0;">
-    <a href="#"><i class="fa fa-dribbble"></i></a> 
-    <a href="#"><i class="fa fa-twitter"></i></a>  
-    <a href="#"><i class="fa fa-linkedin"></i></a>  
-    <a href="#"><i class="fa fa-facebook"></i></a> 
+  <div style="margin: 24px 0; 
   </div>
   <p><button></button></p>
 </div>
